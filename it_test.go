@@ -64,68 +64,89 @@ func (s *dgTestSuite) TestIntegration_CreateValidDirectedGraph() {
 }
 
 func TestIntegration_CreateInvalidDirectedGraph(t *testing.T) {
+	//TODO
 }
 
 func TestIntegration_ListDirectedGraph(t *testing.T) {
+	//TODO
 }
 
 func TestIntegration_UpdateValidDirectedGraph(t *testing.T) {
+	//TODO
 }
 
 func TestIntegration_UpdateInvalidDirectedGraph(t *testing.T) {
+	//TODO
 }
 
 func TestIntegration_GetExistingDirectedGraph(t *testing.T) {
+	//TODO
 }
 
 func TestIntegration_GetNonExistingDirectedGraph(t *testing.T) {
+	//TODO
 }
 
 func TestIntegration_DeleteDirectedGraph(t *testing.T) {
+	//TODO
 }
 
 // NODE
 
 func TestIntegration_CreateValidNode(t *testing.T) {
+	//TODO
 }
 
 func TestIntegration_CreateInvalidNode(t *testing.T) {
+	//TODO
 }
 
 func TestIntegration_ListNode(t *testing.T) {
+	//TODO
 }
 
 func TestIntegration_UpdateValidNode(t *testing.T) {
+	//TODO
 }
 
 func TestIntegration_UpdateInvalidNode(t *testing.T) {
+	//TODO
 }
 
 func TestIntegration_GetExistingNode(t *testing.T) {
+	//TODO
 }
 
 func TestIntegration_GetNonExistingNode(t *testing.T) {
+	//TODO
 }
 
 func TestIntegration_DeleteNode(t *testing.T) {
+	//TODO
 }
 
 // EDGE
 
 func TestIntegration_CreateValidEdge(t *testing.T) {
+	//TODO
 }
 
 func TestIntegration_CreateInvalidEdge(t *testing.T) {
+	//TODO
 }
 
 func TestIntegration_ListEdge(t *testing.T) {
+	//TODO
 }
 
 func TestIntegration_GetExistingEdge(t *testing.T) {
+	//TODO
 }
 
 func TestIntegration_GetNonExistingEdge(t *testing.T) {
+	//TODO
 }
 
 func TestIntegration_DeleteEdge(t *testing.T) {
+	//TODO
 }
